@@ -1,0 +1,58 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-03-11T22:14:16.060Z,-34.3361,-70.6044,105.14,4.6,mb,,50,0.346,0.7,us,us1000jdw6,2019-03-11T22:56:35.040Z,"17km SSE of Machali, Chile",earthquake,4.2,3.9,0.082,44,reviewed,us,us
+2019-03-11T20:56:28.630Z,-32.0112,-177.9517,10,4.9,mb,,77,6.335,0.71,us,us1000jdug,2019-03-11T21:25:04.040Z,"110km SE of L'Esperance Rock, New Zealand",earthquake,9.2,1.8,0.095,40,reviewed,us,us
+2019-03-11T19:01:25.930Z,-6.0809,148.9904,64.84,4.9,mb,,55,3.676,0.88,us,us1000jdrc,2019-03-11T19:22:00.040Z,"63km WNW of Kandrian, Papua New Guinea",earthquake,6.4,7.6,0.064,77,reviewed,us,us
+2019-03-11T18:36:41.310Z,11.1839,126.2337,10,4.6,mb,,133,4.138,0.99,us,us1000jdrj,2019-03-11T19:33:47.040Z,"52km ENE of Sulangan, Philippines",earthquake,12,1.9,0.071,60,reviewed,us,us
+2019-03-11T18:36:21.260Z,31.0162,-87.2078,5,3.1,mb_lg,,163,0.203,0.63,us,us1000jdt6,2019-03-11T23:28:03.374Z,"5km ENE of Flomaton, Alabama",earthquake,1.2,1.9,0.098,27,reviewed,us,us
+2019-03-11T18:16:24.610Z,36.2883,69.8685,137.38,4.5,mb,,64,1.869,1.03,us,us1000jdqc,2019-03-11T19:27:28.954Z,"31km S of Farkhar, Afghanistan",earthquake,5.7,5.5,0.054,102,reviewed,us,us
+2019-03-11T18:05:02.990Z,-34.7381,-108.6108,10,4.8,mb,,187,7.612,0.59,us,us1000jdpq,2019-03-11T19:41:23.040Z,"Southern East Pacific Rise",earthquake,7.8,1.9,0.061,84,reviewed,us,us
+2019-03-11T17:06:35.550Z,59.9249,-141.6636,2.1,2.7,ml,,,,0.68,ak,ak019381s0ws,2019-03-11T19:50:10.040Z,"45km ESE of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T16:45:12.420Z,54.4415,-156.233,10,3.4,ml,,230,1.427,0.94,us,us1000jdna,2019-03-11T18:17:20.040Z,"158km SSW of Chirikof Island, Alaska",earthquake,4.2,2,,,reviewed,us,ak
+2019-03-11T16:39:34.250Z,18.7425,-66.2753,56,2.61,md,7,322,0.3675,0.33,pr,pr2019070010,2019-03-11T18:32:31.474Z,"31km N of Dorado, Puerto Rico",earthquake,2.81,1.9,0.07,6,reviewed,pr,pr
+2019-03-11T16:34:28.900Z,1.1515,98.7839,73.48,5.4,mww,,40,1.217,0.96,us,us1000jdlv,2019-03-11T23:49:17.004Z,"58km WSW of Padangsidempuan, Indonesia",earthquake,5.7,4.8,0.078,16,reviewed,us,us
+2019-03-11T16:25:51.540Z,-6.0611,148.9965,31.25,5.8,mww,,20,3.66,1.12,us,us1000jdlr,2019-03-11T18:27:19.871Z,"63km WNW of Kandrian, Papua New Guinea",earthquake,7.4,3.5,0.071,19,reviewed,us,us
+2019-03-11T15:48:50.290Z,51.3596,-178.5577,48.11,4.3,mb,,271,0.423,0.42,us,us1000jdlp,2019-03-11T18:08:28.040Z,"39km ENE of Amatignak Island, Alaska",earthquake,10.1,18,0.189,8,reviewed,us,us
+2019-03-11T15:38:13.930Z,59.8963,-141.6213,21.5,2.5,ml,,,,0.47,ak,ak019380rz3y,2019-03-11T18:24:13.040Z,"49km ESE of Cape Yakataga, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2019-03-11T15:19:32.750Z,51.1947,-178.4125,10,4,mb,,271,0.61,0.54,us,us1000jdlj,2019-03-11T16:24:46.040Z,"49km E of Amatignak Island, Alaska",earthquake,7.5,1.8,0.156,11,reviewed,us,us
+2019-03-11T14:42:30.630Z,17.9731,-65.367,8,2.56,md,6,338,0.5106,0.25,pr,pr2019070011,2019-03-11T19:09:41.842Z,"17km SE of Esperanza, Puerto Rico",earthquake,2.92,1.18,0.44,5,reviewed,pr,pr
+2019-03-11T14:22:17.270Z,-33.8298,-70.8818,82.28,4.1,mb,,51,0.103,0.29,us,us1000jdkm,2019-03-11T17:54:06.507Z,"12km W of Paine, Chile",earthquake,5.1,2.1,0.303,4,reviewed,us,us
+2019-03-11T13:26:24.470Z,1.9132,97.8234,40.63,5.2,mww,,30,0.654,1.09,us,us1000jdk7,2019-03-11T23:43:18.390Z,"93km WSW of Onan Ganjang, Indonesia",earthquake,5.7,4.6,0.073,18,reviewed,us,us
+2019-03-11T13:03:08.690Z,-6.5789,130.6278,62.02,4.9,mww,,68,1.545,0.85,us,us1000jdk4,2019-03-11T13:54:41.040Z,"169km NNW of Saumlaki, Indonesia",earthquake,9.4,5.6,0.073,18,reviewed,us,us
+2019-03-11T11:44:15.930Z,37.0052,-104.77,5,3.2,ml,,33,0.117,1.08,us,us1000jdjl,2019-03-11T12:25:25.040Z,"30km SW of Trinidad, Colorado",earthquake,2.4,1.8,0.062,46,reviewed,us,us
+2019-03-11T11:39:53.940Z,40.5615005,-122.1624985,20.82,2.89,md,24,56,0.05032,0.1,nc,nc73150686,2019-03-11T14:30:03.532Z,"2km ENE of Millville, CA",earthquake,0.36,0.65,0.12,28,automatic,nc,nc
+2019-03-11T11:05:24.258Z,66.2275,-157.1993,0,2.5,ml,,,,0.66,ak,ak01937y76o9,2019-03-11T11:17:24.368Z,"77km S of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-03-11T11:00:28.560Z,58.3387,-31.9105,10,4.9,mb,,84,7.781,1.37,us,us1000jdj7,2019-03-11T11:52:42.040Z,"Reykjanes Ridge",earthquake,4.2,1.9,0.03,340,reviewed,us,us
+2019-03-11T10:23:28.729Z,61.4217,-150.1333,14.3,2.8,ml,,,,0.88,ak,ak01937xpme7,2019-03-11T18:26:18.140Z,"14km SW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T09:45:42.694Z,59.6734,-153.3769,104.5,2.9,ml,,,,0.75,ak,ak01937x8xgi,2019-03-11T16:43:14.715Z,"87km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2019-03-11T09:33:46.940Z,25.6138,141.4553,10.33,5.4,mww,,36,1.614,1.09,us,us1000jdig,2019-03-11T12:38:37.654Z,"92km N of Iwo Jima, Japan",earthquake,4.6,3.7,0.071,19,reviewed,us,us
+2019-03-11T09:28:05.120Z,12.123,143.8751,10,5.1,mb,,54,3.614,0.61,us,us1000jdif,2019-03-11T09:45:22.509Z,"153km SW of Merizo Village, Guam",earthquake,9.7,1.9,0.058,97,reviewed,us,us
+2019-03-11T08:51:00.730Z,18.9145,-66.3156,38,2.56,md,10,289,0.4869,0.27,pr,pr2019070009,2019-03-11T12:15:32.717Z,"49km N of Brenas, Puerto Rico",earthquake,1.3,3.5,0.42,9,reviewed,pr,pr
+2019-03-11T08:40:58.053Z,61.6306,-146.8997,19.4,2.7,ml,,,,0.77,ak,ak01937wmgir,2019-03-11T08:45:19.733Z,"63km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T08:27:59.070Z,38.8113327,-122.8246689,1.43,2.8,md,37,42,0.004297,0.05,nc,nc73150546,2019-03-11T18:04:05.860Z,"7km WNW of The Geysers, CA",earthquake,0.15,0.21,0.23,24,automatic,nc,nc
+2019-03-11T08:20:53.640Z,36.9013,142.2885,35,4.6,mb,,140,1.535,0.54,us,us1000jdhm,2019-03-11T08:46:06.040Z,"126km E of Iwaki, Japan",earthquake,8.7,1.9,0.109,25,reviewed,us,us
+2019-03-11T08:10:37.501Z,60.225,-151.0738,51.7,2.7,ml,,,,0.52,ak,ak01937wfzfj,2019-03-11T08:23:04.049Z,"20km SE of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2019-03-11T07:01:20.690Z,18.9016,-67.4181,6,2.8,md,3,334,0.5316,0.17,pr,pr2019070006,2019-03-11T12:14:37.690Z,"56km NW of San Antonio, Puerto Rico",earthquake,2.09,1.75,0.07,3,reviewed,pr,pr
+2019-03-11T06:43:54.780Z,-50.118,115.2744,10,5,mb,,137,16.391,0.68,us,us1000jdgc,2019-03-11T07:03:39.040Z,"Western Indian-Antarctic Ridge",earthquake,15.2,1.9,0.123,21,reviewed,us,us
+2019-03-11T06:37:51.740Z,33.1828,132.6498,41.32,4.9,mb,,77,1.162,0.73,us,us1000jdg8,2019-03-12T00:07:16.871Z,"8km SSW of Kihoku-cho, Japan",earthquake,6.8,7.2,0.074,58,reviewed,us,us
+2019-03-11T06:23:14.690Z,51.4488,-178.2445,47.76,5.2,mww,,116,0.791,0.99,us,us1000jdg2,2019-03-11T15:32:48.308Z,"48km S of Tanaga Volcano, Alaska",earthquake,9,5.1,0.073,18,reviewed,us,us
+2019-03-11T05:35:12.440Z,38.0066,-97.9859,5,2.8,mb_lg,,103,0.708,0.72,us,us1000jdfx,2019-03-11T20:37:06.378Z,"4km WSW of South Hutchinson, Kansas",earthquake,1.5,2,0.057,79,reviewed,us,us
+2019-03-11T04:35:46.150Z,59.835,-141.6444,12.6,3.4,ml,,,,0.73,ak,ak01937u7mlg,2019-03-11T15:16:10.803Z,"47km SE of Cape Yakataga, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2019-03-11T04:21:09.910Z,-21.2547,-178.1014,485.06,4.6,mb,,97,5.034,1.16,us,us1000jdf9,2019-03-11T04:45:06.040Z,"91km SE of Ndoi Island, Fiji",earthquake,12.8,6.3,0.037,221,reviewed,us,us
+2019-03-11T04:08:13.260Z,19.2506,-66.6053,18,2.89,md,8,304,0.9161,0.31,pr,pr2019070003,2019-03-11T06:45:26.806Z,"86km N of Arecibo, Puerto Rico",earthquake,7.45,14.74,0.11,8,reviewed,pr,pr
+2019-03-11T03:33:01.790Z,-21.2622,-68.6846,122.71,4.7,mww,,62,0.742,0.78,us,us1000jdey,2019-03-11T03:52:08.040Z,"135km N of Calama, Chile",earthquake,5.8,5.6,0.08,15,reviewed,us,us
+2019-03-11T03:19:32.165Z,69.1657,-144.4332,25.2,2.5,ml,,,,0.78,ak,ak01937tiqgw,2019-03-11T03:30:59.904Z,"112km SSW of Kaktovik, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2019-03-11T03:17:54.990Z,-5.9073,130.6056,96.89,4.4,mb,,131,2.173,0.99,us,us1000jder,2019-03-11T03:41:34.040Z,"238km W of Tual, Indonesia",earthquake,11.3,11.5,0.162,11,reviewed,us,us
+2019-03-11T03:15:30.700Z,-31.6522,58.1132,10,5.1,mb,,50,10.652,0.59,us,us1000jdes,2019-03-11T03:33:29.040Z,"Southwest Indian Ridge",earthquake,11.2,1.9,0.073,60,reviewed,us,us
+2019-03-11T02:47:47.050Z,19.1686,-66.5431,49,2.81,md,13,289,0.6916,0.48,pr,pr2019070002,2019-03-11T05:01:25.863Z,"78km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.58,7.17,0.32,12,reviewed,pr,pr
+2019-03-11T02:34:06.660Z,19.2468,-66.5703,27,3.16,md,13,293,0.7708,0.45,pr,pr2019070000,2019-03-11T03:01:24.040Z,"80km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.89,22.5,0.42,13,reviewed,pr,pr
+2019-03-11T02:31:40.470Z,19.1598,-66.5481,10,2.66,md,12,301,0.683,0.37,pr,pr2019070001,2019-03-11T05:01:06.775Z,"77km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,3.04,4.52,0.25,8,reviewed,pr,pr
+2019-03-11T02:26:54.953Z,59.7565,-141.7978,1,2.8,ml,,,,0.73,ak,ak01937syusm,2019-03-11T02:58:59.040Z,"49km SE of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T02:20:16.097Z,59.8628,-141.6952,21.6,3.3,ml,,,,0.75,ak,ak01937sxh7c,2019-03-11T03:34:21.452Z,"47km SE of Cape Yakataga, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2019-03-11T01:35:36.649Z,59.6929,-141.8414,0,2.5,ml,,,,0.73,ak,ak01937sfb28,2019-03-11T02:55:20.040Z,"55km ESE of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2019-03-11T01:20:14.669Z,61.5819,-141.2117,0,2.6,ml,,,,0.75,ak,ak01937sc1lj,2019-03-11T02:47:27.040Z,"171km E of Chitina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T01:14:28.460Z,11.7619,93.6723,111.16,4.5,mb,,83,0.915,0.77,us,us1000jddw,2019-03-11T01:33:58.040Z,"101km E of Port Blair, India",earthquake,5.6,6.5,0.09,36,reviewed,us,us
+2019-03-11T00:26:52.611Z,59.6602,-141.8527,0,2.5,ml,,,,0.91,ak,ak01937rrz8t,2019-03-11T04:37:25.040Z,"55km SE of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T00:21:10.067Z,59.8334,-141.619,11.3,2.5,ml,,,,0.85,ak,ak01937rqp69,2019-03-11T00:24:16.423Z,"52km ESE of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T00:12:33.271Z,59.7721,-141.6676,13.3,3.1,ml,,,,1.04,ak,ak01937roxpf,2019-03-11T00:17:01.537Z,"53km SE of Cape Yakataga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2019-03-11T00:11:37.130Z,36.3627,-98.1558,5,2.5,mb_lg,,61,0.198,0.31,us,us1000jddc,2019-03-11T08:14:12.164Z,"22km SSE of Helena, Oklahoma",earthquake,1,1.7,0.106,23,reviewed,us,us
+2019-03-11T00:11:09.381Z,59.8536,-141.6296,15.4,3.2,ml,,,,0.88,ak,ak01937roo5l,2019-03-11T00:20:54.858Z,"50km ESE of Cape Yakataga, Alaska",earthquake,,0.2,,,automatic,ak,ak
